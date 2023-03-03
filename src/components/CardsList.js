@@ -42,8 +42,8 @@ const CardsList = () => {
               <div className="back">
                 <p className='summary'>{selectedCard.Summary}</p>
                 <div className='additional'>
-                  <div className='question'>Question URL : <a href={selectedCard.Url} target="_blank">{selectedCard.Url}</a></div>
-                  <div className='solution'>Solution : <a href={selectedCard.Solution} target="_blank">{selectedCard.Solution}</a></div>
+                  <div className='question'> <a href={selectedCard.Url} target="_blank">Open Question URL</a></div>
+                  <div className='solution'> <a href={selectedCard.Solution} target="_blank">Open Solution</a></div>
                 </div>
               </div>
           </div>
