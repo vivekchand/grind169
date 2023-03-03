@@ -5,9 +5,12 @@ import Modal from '../components/Modal/Modal';
 
 const CardsList = () => {
 
+  
+
   const [modalIsOpen, setModalIsOpen] = useState(false);
   const [flip, setFlip] = useState(false);
   const [ selectedCard, setSelectedCard ] = useState({});
+
 
   function openModal(card) {
     console.log("open clicked", card)
@@ -25,7 +28,8 @@ const CardsList = () => {
       <div className='card-grid'>
         {data.map((card,index) => {
           return (
-            <div key={index} className="card" onClick={()=> { openModal(card)}}>
+            <div key={index} className="card" style={    {backgroundColor: card.Type === "Easy" ? "#aaf683" : ( card.Type === "Medium"  ? "#ffd97d":"#ee6055" )
+        }} onClick={()=> { openModal(card)}}>
               <span>
                 {card.Problem}
               </span>
