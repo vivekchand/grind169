@@ -10,7 +10,7 @@ const CardsList = () => {
   const [ selectedCard, setSelectedCard ] = useState({});
 
   function openModal(card) {
-    console.log("open clicked")
+    console.log("open clicked", card)
     setModalIsOpen(true);
     setSelectedCard(card);
   }
@@ -35,14 +35,18 @@ const CardsList = () => {
       </div>
 
       <Modal show={modalIsOpen} handleClose={closeModal} >
-          
           <div className={`card card-modal ${flip ? 'flip' : ''}`} onClick={()=> setFlip(!flip)} >
               <div className="front">
                 {selectedCard.Problem}
               </div>
-              <div className="back">{selectedCard.Summary}</div>
+              <div className="back">
+                <p className='summary'>{selectedCard.Summary}</p>
+                <div className='additional'>
+                  <div className='question'>Question URL : <a href={selectedCard.Url} target="_blank">{selectedCard.Url}</a></div>
+                  <div className='solution'>Solution : <a href={selectedCard.Solution} target="_blank">{selectedCard.Solution}</a></div>
+                </div>
+              </div>
           </div>
-         
       </Modal>
     </>
   )

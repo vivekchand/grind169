@@ -49,7 +49,19 @@ body{
 
 .card .back {
   transform: rotateY(180deg);
+  font-size: 12px;
+  width : 80%;
+}
+
+.card .back .summary {
   font-size: 30px;
+}
+
+.additional {
+  display : flex;
+  flex-direction: column;
+  gap : 10px;
+  flex-wrap: wrap;
 }
 
 .flashcard-options{
