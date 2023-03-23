@@ -1,5 +1,6 @@
 [
   {
+    "Id": 1,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/1.%20Two%20Sum/TwoSum.java",
     "Url": "https://leetcode.com/problems/two-sum/",
     "Week": 1,
@@ -9,6 +10,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 2,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/20.%20Valid%20Parentheses/ValidParentheses.java",
     "Url": "https://leetcode.com/problems/valid-parentheses/",
     "Week": 1,
@@ -18,6 +20,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 3,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/21.%20Merge%20Two%20Sorted%20Lists/MergeTwoLists.java",
     "Url": "https://leetcode.com/problems/merge-two-sorted-lists",
     "Week": 1,
@@ -27,6 +30,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 4,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/MaxProfit.java",
     "Url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
     "Week": 1,
@@ -36,6 +40,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 5,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/125.%20Valid%20Palindrome/ValidPalindrome.java",
     "Url": "https://leetcode.com/problems/valid-palindrome",
     "Week": 1,
@@ -45,6 +50,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 6,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/226.%20Invert%20Binary%20Tree/InvertBinaryTree.java",
     "Url": "https://leetcode.com/problems/invert-binary-tree/",
     "Week": 1,
@@ -54,6 +60,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 7,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/242.%20Valid%20Anagram/ValidAnagram.java",
     "Url": "https://leetcode.com/problems/valid-anagram",
     "Week": 1,
@@ -63,6 +70,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 8,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/704.%20Binary%20Search/BinarySearch.java",
     "Url": "https://leetcode.com/problems/binary-search/",
     "Week": 1,
@@ -72,6 +80,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 9,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/733.%20Flood%20Fill/FloodFill.java",
     "Url": "https://leetcode.com/problems/flood-fill",
     "Week": 1,
@@ -81,6 +90,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 10,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/53.%20Maximum%20Subarray/MaxSubArray.java",
     "Url": "https://leetcode.com/problems/maximum-subarray",
     "Week": 1,
@@ -90,6 +100,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 11,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/LowestCommonAncestor.java",
     "Url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
     "Week": 1,
@@ -99,6 +110,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 12,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/110.%20Balanced%20Binary%20Tree/BalancedBinaryTree.java",
     "Url": "https://leetcode.com/problems/balanced-binary-tree",
     "Week": 1,
@@ -108,6 +120,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 13,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/141.%20Linked%20List%20Cycle/LinkedListCycle.java",
     "Url": "https://leetcode.com/problems/linked-list-cycle",
     "Week": 1,
@@ -117,6 +130,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 14,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/232.%20Implement%20Queue%20using%20Stacks/MyQueue.java",
     "Url": "https://leetcode.com/problems/implement-queue-using-stacks",
     "Week": 1,
@@ -126,6 +140,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 15,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/278.%20First%20Bad%20Version/FirstBadVersion.java",
     "Url": "https://leetcode.com/problems/first-bad-version",
     "Week": 1,
@@ -135,6 +150,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 16,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/383.%20Ransom%20Note/RansomNote.java",
     "Url": "https://leetcode.com/problems/ransom-note",
     "Week": 1,
@@ -144,6 +160,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 17,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/70.%20Climbing%20Stairs/ClimbingStairs.java",
     "Url": "https://leetcode.com/problems/climbing-stairs",
     "Week": 1,
@@ -153,6 +170,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 18,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/409.%20Longest%20Palindrome/LongestPalindrome.java",
     "Url": "https://leetcode.com/problems/longest-palindrome",
     "Week": 1,
@@ -162,6 +180,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 19,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/206.%20Reverse%20Linked%20List/ReverseLinkedList.java",
     "Url": "https://leetcode.com/problems/reverse-linked-list",
     "Week": 2,
@@ -171,6 +190,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 20,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/169.%20Majority%20Element/MajorityElement.java",
     "Url": "https://leetcode.com/problems/majority-element",
     "Week": 2,
@@ -180,6 +200,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 21,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/67.%20Add%20Binary/AddBinary.java",
     "Url": "https://leetcode.com/problems/add-binary",
     "Week": 2,
@@ -189,6 +210,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 22,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/543.%20Diameter%20of%20Binary%20Tree/DiameterOfBinaryTree.java",
     "Url": "https://leetcode.com/problems/diameter-of-binary-tree",
     "Week": 2,
@@ -198,6 +220,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 23,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/876.%20Middle%20of%20the%20Linked%20List/MiddleNode.java",
     "Url": "https://leetcode.com/problems/middle-of-the-linked-list",
     "Week": 2,
@@ -207,6 +230,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 24,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/104.%20Maximum%20Depth%20of%20Binary%20Tree/MaximumDepthOfBinaryTree.java",
     "Url": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
     "Week": 2,
@@ -216,6 +240,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 25,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/217.%20Contains%20Duplicate/ContainsDuplicate.java",
     "Url": "https://leetcode.com/problems/contains-duplicate",
     "Week": 2,
@@ -225,6 +250,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 26,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/252.%20Meeting%20Rooms/MeetingRooms.java",
     "Url": "https://leetcode.com/problems/meeting-rooms",
     "Week": 2,
@@ -234,6 +260,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 27,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/13.%20Roman%20to%20Integer/RomanToInt.java",
     "Url": "https://leetcode.com/problems/roman-to-integer",
     "Week": 2,
@@ -243,6 +270,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 28,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/844.%20Backspace%20String%20Compare/BackspaceCompare.java",
     "Url": "https://leetcode.com/problems/backspace-string-compare",
     "Week": 2,
@@ -252,6 +280,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 29,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/338.%20Counting%20Bits/CountBits.java",
     "Url": "https://leetcode.com/problems/counting-bits",
     "Week": 2,
@@ -261,6 +290,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 30,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/100.%20Same%20Tree/SameTree.java",
     "Url": "https://leetcode.com/problems/same-tree",
     "Week": 2,
@@ -270,6 +300,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 31,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/191.%20Number%20of%201%20Bits/NumberOf1Bits.java",
     "Url": "https://leetcode.com/problems/number-of-1-bits",
     "Week": 2,
@@ -279,6 +310,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 32,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/14.%20Longest%20Common%20Prefix/LongestCommonPrefix.java",
     "Url": "https://leetcode.com/problems/longest-common-prefix",
     "Week": 2,
@@ -288,6 +320,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 33,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/136.%20Single%20Number/SingleNumber.java",
     "Url": "https://leetcode.com/problems/single-number",
     "Week": 2,
@@ -297,6 +330,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 34,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/234.%20Palindrome%20Linked%20List/IsPalindrome.java",
     "Url": "https://leetcode.com/problems/palindrome-linked-list",
     "Week": 2,
@@ -306,6 +340,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 35,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/283.%20Move%20Zeroes/MoveZeroes.java",
     "Url": "https://leetcode.com/problems/move-zeroes/",
     "Week": 3,
@@ -315,6 +350,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 36,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/101.%20Symmetric%20Tree/SymmetricTree.java",
     "Url": "https://leetcode.com/problems/symmetric-tree/",
     "Week": 3,
@@ -324,6 +360,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 37,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/268.%20Missing%20Number/MissingNumber.java",
     "Url": "https://leetcode.com/problems/missing-number",
     "Week": 3,
@@ -333,6 +370,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 38,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/9.%20Palindrome%20Number/PalindromeNumber.java",
     "Url": "https://leetcode.com/problems/palindrome-number/",
     "Week": 3,
@@ -342,6 +380,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 39,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/SortedArrayToBST.java",
     "Url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
     "Week": 3,
@@ -351,6 +390,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 40,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/190.%20Reverse%20Bits/ReverseBits.java",
     "Url": "https://leetcode.com/problems/reverse-bits",
     "Week": 3,
@@ -360,6 +400,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 41,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/572.%20Subtree%20of%20Another%20Tree/IsSubTree.java",
     "Url": "https://leetcode.com/problems/subtree-of-another-tree",
     "Week": 3,
@@ -369,6 +410,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 42,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/977.%20Squares%20of%20a%20Sorted%20Array/SortedSquares.java",
     "Url": "https://leetcode.com/problems/squares-of-a-sorted-array",
     "Week": 3,
@@ -378,6 +420,7 @@
     "Type": "Easy"
   },
   {
+    "Id": 43,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/57.%20Insert%20Interval/InsertInterval.java",
     "Url": "https://leetcode.com/problems/insert-interval",
     "Week": 3,
@@ -387,6 +430,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 44,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/542.%2001%20Matrix/UpdateMatrix.java",
     "Url": "https://leetcode.com/problems/01-matrix/",
     "Week": 3,
@@ -396,6 +440,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 45,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/973.%20K%20Closest%20Points%20to%20Origin/KClosestPointsToOrigin.java",
     "Url": "https://leetcode.com/problems/k-closest-points-to-origin/",
     "Week": 3,
@@ -405,6 +450,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 46,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters/LengthOfLongestSubstring.java",
     "Url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
     "Week": 3,
@@ -414,6 +460,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 47,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/15.%203Sum/ThreeSum.java",
     "Url": "https://leetcode.com/problems/3sum/",
     "Week": 4,
@@ -423,6 +470,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 48,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/102.%20Binary%20Tree%20Level%20Order%20Traversal/LevelOrderTraversal.java",
     "Url": "https://leetcode.com/problems/binary-tree-level-order-traversal",
     "Week": 4,
@@ -432,6 +480,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 49,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/133.%20Clone%20Graph/CloneGraph.java",
     "Url": "https://leetcode.com/problems/clone-graph/",
     "Week": 4,
@@ -441,6 +490,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 50,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/150.%20Evaluate%20Reverse%20Polish%20Notation/EvaluateReversePolishNotation.java",
     "Url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
     "Week": 4,
@@ -450,6 +500,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 51,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/207.%20Course%20Schedule/CourseSchedule.java",
     "Url": "https://leetcode.com/problems/course-schedule/",
     "Week": 4,
@@ -459,6 +510,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 52,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/208.%20Implement%20Trie%20(Prefix%20Tree)/Trie.java",
     "Url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
     "Week": 4,
@@ -468,6 +520,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 53,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/322.%20Coin%20Change/CoinChange.java",
     "Url": "https://leetcode.com/problems/coin-change",
     "Week": 4,
@@ -477,6 +530,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 54,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/238.%20Product%20of%20Array%20Except%20Self/ProductExceptSelf.java",
     "Url": "https://leetcode.com/problems/product-of-array-except-self/",
     "Week": 4,
@@ -486,6 +540,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 55,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/155.%20Min%20Stack/MinStack.java",
     "Url": "https://leetcode.com/problems/min-stack/",
     "Week": 4,
@@ -495,6 +550,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 56,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/98.%20Validate%20Binary%20Search%20Tree/IsValidBST.java",
     "Url": "https://leetcode.com/problems/validate-binary-search-tree/",
     "Week": 4,
@@ -504,6 +560,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 57,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/200.%20Number%20of%20Islands/NumOfIslands.java",
     "Url": "https://leetcode.com/problems/number-of-",
     "Week": 4,
@@ -513,6 +570,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 58,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/994.%20Rotting%20Oranges/RottingOranges.java",
     "Url": "https://leetcode.com/problems/rotting-oranges/",
     "Week": 5,
@@ -522,6 +580,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 59,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/33.%20Search%20in%20Rotated%20Sorted%20Array/Search.java",
     "Url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
     "Week": 5,
@@ -531,6 +590,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 60,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/39.%20Combination%20Sum/CombinationSum.java",
     "Url": "https://leetcode.com/problems/combination-sum/",
     "Week": 5,
@@ -540,6 +600,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 61,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/46.%20Permutations/Permute.java",
     "Url": "https://leetcode.com/problems/permutations/",
     "Week": 5,
@@ -549,15 +610,17 @@
     "Type": "Medium"
   },
   {
+    "Id": 62,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/56.%20Merge%20Intervals/Merge.java",
     "Url": "https://leetcode.com/problems/merge-intervals/",
     "Week": 5,
     "Category": "Array",
-    "Problem": "Merge  Intervals",
+    "Problem": "Merge Intervals",
     "Summary": "check if root is null or p == root or q == root - then return root;  recursively find lowest common ancestor for root.left & store in left & same for root.right & store in right; check if left == null - then return right else check if right == null then return left else root;",
-    "Type": ""
+    "Type": "Medium"
   },
   {
+    "Id": 63,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/LowestCommonAncestor.java",
     "Url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
     "Week": 5,
@@ -567,6 +630,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 64,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/981.%20Time%20Based%20Key-Value%20Store/TimeMap.java",
     "Url": "https://leetcode.com/problems/time-based-key-value-store/",
     "Week": 5,
@@ -576,6 +640,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 65,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/721.%20Accounts%20Merge/AccountsMerge.java",
     "Url": "https://leetcode.com/problems/accounts-merge/",
     "Week": 5,
@@ -585,6 +650,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 66,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/75.%20Sort%20Colors/SortColors.java",
     "Url": "https://leetcode.com/problems/sort-colors/",
     "Week": 5,
@@ -594,6 +660,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 67,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/139.%20Word%20Break/WordBreak.java",
     "Url": "https://leetcode.com/problems/word-break/",
     "Week": 5,
@@ -603,6 +670,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 68,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/416.%20Partition%20Equal%20Subset%20Sum/ParitionEqualSubsetSum.java",
     "Url": "https://leetcode.com/problems/partition-equal-subset-sum/",
     "Week": 6,
@@ -612,6 +680,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 69,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/8.%20String%20to%20Integer%20(atoi)/StringToInteger.java",
     "Url": "https://leetcode.com/problems/string-to-integer-atoi/",
     "Week": 6,
@@ -621,6 +690,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 70,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/54.%20Spiral%20Matrix/SpiralMatrix.java",
     "Url": "https://leetcode.com/problems/spiral-matrix/",
     "Week": 6,
@@ -630,6 +700,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 71,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/78.%20Subsets/Subsets.java",
     "Url": "https://leetcode.com/problems/subsets/",
     "Week": 6,
@@ -639,6 +710,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 72,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/199.%20Binary%20Tree%20Right%20Side%20View/BinaryTreeRightSideView.java",
     "Url": "https://leetcode.com/problems/binary-tree-right-side-view/",
     "Week": 6,
@@ -648,6 +720,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 73,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring.java",
     "Url": "https://leetcode.com/problems/longest-palindromic-substring/",
     "Week": 6,
@@ -657,6 +730,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 74,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/62.%20Unique%20Paths/UniquePaths.java",
     "Url": "https://leetcode.com/problems/unique-paths/",
     "Week": 6,
@@ -666,6 +740,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 75,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/ConstructBinaryTreeFromPreAndInorderTraversal.java",
     "Url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
     "Week": 6,
@@ -675,6 +750,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 76,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/11.%20Container%20With%20Most%20Water/ContainerWithMostWater.java",
     "Url": "https://leetcode.com/problems/container-with-most-water",
     "Week": 6,
@@ -684,6 +760,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 77,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/LetterCombinationsOfPhoneNumber.java",
     "Url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
     "Week": 6,
@@ -693,6 +770,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 78,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/79.%20Word%20Search/WordSearch.java",
     "Url": "https://leetcode.com/problems/word-search",
     "Week": 6,
@@ -702,6 +780,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 79,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/438.%20Find%20All%20Anagrams%20in%20a%20String/FindAnagrams.java",
     "Url": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
     "Week": 7,
@@ -711,6 +790,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 80,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/310.%20Minimum%20Height%20Trees/FindMinHeightTrees.java",
     "Url": "https://leetcode.com/problems/minimum-height-trees",
     "Week": 7,
@@ -720,6 +800,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 81,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/621.%20Task%20Scheduler/LeastInterval.java",
     "Url": "https://leetcode.com/problems/task-scheduler",
     "Week": 7,
@@ -729,6 +810,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 82,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/146.%20LRU%20Cache/LRUCache.java",
     "Url": "https://leetcode.com/problems/lru-cache",
     "Week": 7,
@@ -738,6 +820,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 83,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/230.%20Kth%20Smallest%20Element%20in%20a%20BST/KthSmallest.java",
     "Url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
     "Week": 7,
@@ -747,6 +830,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 84,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/739.%20Daily%20Temperatures/DailyTemperatures.java",
     "Url": "https://leetcode.com/problems/daily-temperatures",
     "Week": 7,
@@ -756,6 +840,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 85,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/198.%20House%20Robber/HouseRobber.java",
     "Url": "https://leetcode.com/problems/house-robber",
     "Week": 7,
@@ -765,6 +850,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 86,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/134.%20Gas%20Station/GasStation.java",
     "Url": "https://leetcode.com/problems/gas-station/",
     "Week": 7,
@@ -774,6 +860,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 87,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/31.%20Next%20Permutation/NextPermutation.java",
     "Url": "https://leetcode.com/problems/next-permutation/",
     "Week": 7,
@@ -783,6 +870,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 88,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/36.%20Valid%20Sudoku/IsValidSudoku.java",
     "Url": "https://leetcode.com/problems/valid-sudoku/",
     "Week": 7,
@@ -792,6 +880,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 89,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/49.%20Group%20Anagrams/GroupAnagrams.java",
     "Url": "https://leetcode.com/problems/group-anagrams",
     "Week": 8,
@@ -801,6 +890,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 90,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/152.%20Maximum%20Product%20Subarray/MaxProduct.java",
     "Url": "https://leetcode.com/problems/maximum-product-subarray",
     "Week": 8,
@@ -810,6 +900,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 91,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure/WordDictionary.java",
     "Url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
     "Week": 8,
@@ -819,6 +910,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 92,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/417.%20Pacific%20Atlantic%20Water%20Flow/PacificAtlantic.java",
     "Url": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
     "Week": 8,
@@ -828,6 +920,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 93,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/RemoveNthFromEnd.java",
     "Url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
     "Week": 8,
@@ -837,6 +930,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 94,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/1730.%20Shortest%20Path%20to%20Get%20Food/GetFood.java",
     "Url": "https://leetcode.com/problems/shortest-path-to-get-food",
     "Week": 8,
@@ -846,6 +940,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 95,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/287.%20Find%20the%20Duplicate%20Number/FindDuplicate.java",
     "Url": "https://leetcode.com/problems/find-the-duplicate-number",
     "Week": 8,
@@ -855,6 +950,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 96,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/692.%20Top%20K%20Frequent%20Words/TopKFrequent.java",
     "Url": "https://leetcode.com/problems/top-k-frequent-words",
     "Week": 8,
@@ -864,6 +960,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 97,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/300.%20Longest%20Increasing%20Subsequence/LengthOfLIS.java",
     "Url": "https://leetcode.com/problems/longest-increasing-subsequence",
     "Week": 8,
@@ -873,6 +970,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 98,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/261.%20Graph%20Valid%20Tree/ValidTree.java",
     "Url": "https://leetcode.com/problems/graph-valid-tree",
     "Week": 8,
@@ -882,6 +980,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 99,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/210.%20Course%20Schedule%20II/FindOrder.java",
     "Url": "https://leetcode.com/problems/course-schedule-ii",
     "Week": 9,
@@ -891,6 +990,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 100,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/24.%20Swap%20Nodes%20in%20Pairs/SwapPairs.java",
     "Url": "leetcode.com/problems/swap-nodes-in-pairs",
     "Week": 9,
@@ -900,6 +1000,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 101,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/113.%20Path%20Sum%20II/PathSum.java",
     "Url": "https://leetcode.com/problems/path-sum-ii",
     "Week": 9,
@@ -909,6 +1010,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 102,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/128.%20Longest%20Consecutive%20Sequence/LongestConsecutive.java",
     "Url": "https://leetcode.com/problems/longest-consecutive-sequence",
     "Week": 9,
@@ -918,6 +1020,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 103,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/189.%20Rotate%20Array/RotateArray.java",
     "Url": "https://leetcode.com/problems/rotate-array",
     "Week": 9,
@@ -927,6 +1030,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 104,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/328.%20Odd%20Even%20Linked%20List/OddEvenList.java",
     "Url": "https://leetcode.com/problems/odd-even-linked-list",
     "Week": 9,
@@ -936,6 +1040,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 105,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/394.%20Decode%20String/DecodeString.java",
     "Url": "https://leetcode.com/problems/decode-string/",
     "Week": 9,
@@ -945,6 +1050,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 106,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/525.%20Contiguous%20Array/FindMaxLength.java",
     "Url": "https://leetcode.com/problems/contiguous-array",
     "Week": 9,
@@ -954,6 +1060,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 107,
     "Solution": "",
     "Url": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
     "Week": 9,
@@ -963,6 +1070,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 108,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/658.%20Find%20K%20Closest%20Elements/FindKClosestElements.java",
     "Url": "https://leetcode.com/problems/find-k-closest-elements",
     "Week": 9,
@@ -972,6 +1080,7 @@
     "Type": "Medium"
   },
   {
+    "Id": 109,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/424.%20Longest%20Repeating%20Character%20Replacement/CharacterReplacement.java",
     "Url": "https://leetcode.com/problems/longest-repeating-character-replacement",
     "Week": 9,
@@ -981,12 +1090,143 @@
     "Type": "Medium"
   },
   {
+    "Id": 110,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/285.%20Inorder%20Successor%20in%20BST/InorderSuccessor.java",
     "Url": "https://leetcode.com/problems/inorder-successor-in-bst/",
     "Week": 10,
     "Category": "Binary Search Tree",
     "Problem": "Inorder Successor in BST",
     "Summary": "This solution finds the in-order successor of a given node in a binary search tree by traversing the tree in an in-order fashion until the given node is found, and then returning the next node in the traversal. The time complexity is O(h) and the space complexity is O(h), where h is the height of the tree.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 111,
+    "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/55.%20Jump%20Game/CanJump.java",
+    "Url": "https://leetcode.com/problems/jump-game",
+    "Week": 10,
+    "Category": "Greedy",
+    "Problem": "Jump Game",
+    "Summary": "This solution starts from the end of the array and moves backwards, checking at each position if we can reach the end from that position. If we can, we update the end index to the current position and repeat the process. If we reach the start of the array and can reach the end from the start, we return true, otherwise we return false. This solution has a time complexity of O(n) and a space complexity of O(1).",
+    "Type": "Medium"
+  },
+  {
+    "Id": 112,
+    "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/2.%20Add%20Two%20Numbers/AddTwoNumbers.java",
+    "Url": "https://leetcode.com/problems/add-two-numbers/description/",
+    "Week": 10,
+    "Category": "Linked List",
+    "Problem": "Add Two Numbers",
+    "Summary": "This solution adds two non-negative integers represented as linked lists by traversing both linked lists simultaneously and adding the corresponding digits of both linked lists. If the sum of the digits is greater than or equal to 10, carry over the remainder to the next digit. The sum of the digits at each position is stored in a new linked list, which is returned as the result.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 113,
+    "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/22.%20Generate%20Parentheses/GenerateParentheses.java",
+    "Url": "https://leetcode.com/problems/generate-parentheses",
+    "Week": 10,
+    "Category": "Recursion",
+    "Problem": "Generate Parentheses",
+    "Summary": "This solution uses a recursive backtracking approach to generate all possible combinations of well-formed parentheses. It initializes an empty list and starts with an empty string. The backtrack method recursively generates all valid prefixes of the parentheses string, and then adds the remaining closing parentheses to form a complete string. It checks the base case when the length of the current string is equal to n*2. The solution generates all possible combinations of well-formed parentheses by incrementing open and close parenthesis count while maintaining the condition that the number of closed parentheses is less than the number of open parentheses.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 114,
+    "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/148.%20Sort%20List/SortList.java",
+    "Url": "https://leetcode.com/problems/sort-list/",
+    "Week": 10,
+    "Category": "Linked List",
+    "Problem": "Sort List",
+    "Summary": "This solution implements the merge sort algorithm to sort a linked list. It uses the merge() function to merge two sorted sub-lists. The sortList() function divides the input list into two halves and recursively sorts them using merge sort. Finally, it merges the sorted halves using the merge() function and returns the sorted list.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 115,
+    "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/323.%20Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph/CountComponents.java",
+    "Url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
+    "Week": 10,
+    "Category": "Graph",
+    "Problem": "Number of Connected Components in an Undirected Graph",
+    "Summary": "This solution uses Depth First Search (DFS) algorithm to find the number of connected components in an undirected graph. It initializes an array to keep track of visited nodes and an adjacency list to represent the graph. Then, for each unvisited node, it performs a DFS traversal and marks all reachable nodes as visited. Finally, it returns the total number of DFS traversals performed, which is equal to the number of connected components in the graph.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 116,
+    "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/1197.%20Minimum%20Knight%20Moves/MinKnightMoves.java",
+    "Url": "https://leetcode.com/problems/minimum-knight-moves",
+    "Week": 10,
+    "Category": "Graph",
+    "Problem": "Minimum Knight Moves",
+    "Summary": "This solution uses breadth-first search (BFS) to find the minimum number of moves a knight needs to reach the target position on a chessboard. It creates a visited set to store the positions that have already been visited and uses a queue to perform BFS. The algorithm iteratively adds the neighboring positions to the queue, updates the number of moves required to reach those positions, and marks them as visited. It continues this process until it reaches the target position or exhausts all possible moves. Finally, it returns the minimum number of moves required to reach the target position.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 117,
+    "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/735.%20Asteroid%20Collision/AsteroidCollision.java",
+    "Url": "https://leetcode.com/problems/asteroid-collision/",
+    "Week": 10,
+    "Category": "Stack",
+    "Problem": "Asteroid Collision",
+    "Summary": "This solution uses a stack to keep track of the asteroids. It iterates through the given array of asteroids and checks if each asteroid can collide with any of the asteroids in the stack. If two asteroids collide, the smaller one will explode. Finally, the remaining asteroids in the stack are returned as an array.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 118,
+    "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/560.%20Subarray%20Sum%20Equals%20K/SubarraySum.java",
+    "Url": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "Week": 10,
+    "Category": "Array",
+    "Problem": "Subarray Sum Equals K",
+    "Summary": "This solution uses a HashMap to keep track of the running sum and its frequency. It initializes the HashMap with a key-value pair of 0 and 1 to handle the case when the subarray sum equals k. It iterates through the array, adding each element to the sum variable. It checks if there is a subarray with sum k by checking if the HashMap contains the key sum - k. If it does, it adds the frequency of that sum to the count variable. Finally, it adds the current sum to the HashMap by putting the key-value pair (sum, map.getOrDefault(sum, 0) + 1). It returns the count variable, which represents the number of subarrays with sum k.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 119,
+    "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/528.%20Random%20Pick%20with%20Weight/PickIndex.java",
+    "Url": "https://leetcode.com/problems/random-pick-with-weight",
+    "Week": 10,
+    "Category": "Math",
+    "Problem": "Random Pick with Weight",
+    "Summary": "This solution uses prefix sum and binary search to select an index from an array of positive integers proportionally to its weight. It initializes a prefix sum array and a total sum variable to 0, and iterates through the input array to calculate the prefix sum array and the total sum. When selecting an index, it generates a random integer between 0 and the total sum, and performs binary search on the prefix sum array to find the index i such that prefixSum[i - 1] < rand < prefixSum[i]. Finally, it returns the index i.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 120,
+    "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/215.%20Kth%20Largest%20Element%20in%20an%20Array/FindKthLargest.java",
+    "Url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "Week": 11,
+    "Category": "Heap",
+    "Problem": "Kth Largest Element in an Array",
+    "Summary": "This solution finds the kth largest element in an array of integers using a min heap priority queue. It iterates through the array, adding elements to the queue and maintaining a size of k by removing the smallest element if the queue exceeds k.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 121,
+    "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/48.%20Rotate%20Image/RotateImage.java",
+    "Url": "https://leetcode.com/problems/rotate-image",
+    "Week": 11,
+    "Category": "Matrix",
+    "Problem": "Rotate Image",
+    "Summary": "This solution rotates an n x n 2D matrix in place by 90 degrees clockwise. It first performs a transpose of the matrix by swapping the elements along the diagonal, and then performs a reflection of the matrix by swapping the elements along the y-axis. This effectively rotates the matrix by 90 degrees clockwise.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 122,
+    "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/ZigZagLevelOrder.java",
+    "Url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "Week": 11,
+    "Category": "Binary Tree",
+    "Problem": "Binary Tree Zigzag Level Order Traversal",
+    "Summary": "This solution performs a zigzag level order traversal of a binary tree and returns the result as a list of lists of integers. It uses a queue to traverse the tree level by level, and a boolean variable zigzag to keep track of whether to insert the node value at the beginning or end of the list. At each level, it creates a new linked list, adds the node values in zigzag order, and adds the linked list to the final result. Finally, it returns the final result.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 123,
+    "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/362.%20Design%20Hit%20Counter/HitCounter.java",
+    "Url": "https://leetcode.com/problems/design-hit-counter/",
+    "Week": 11,
+    "Category": "Queue",
+    "Problem": "Design Hit Counter",
+    "Summary": "This solution uses a queue to store the timestamps of the hits. When a new hit is recorded, it is added to the end of the queue. When the number of hits in the past 5 minutes is requested, all the hits that are older than 5 minutes are removed from the front of the queue. The number of hits in the queue is returned. The solution has a time complexity of O(n), where n is the number of hits recorded, and a space complexity of O(n).",
     "Type": "Medium"
   }
 ]

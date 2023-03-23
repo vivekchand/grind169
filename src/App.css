@@ -2,6 +2,10 @@ body{
   background-color: #fff;
 }
 
+.header {
+  text-align: center;
+}
+
 .card-grid{
   display: grid;
   align-items: center;

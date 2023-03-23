@@ -1,15 +1,22 @@
 import React, {useState} from 'react'
 import { data } from '../config';
 import Modal from '../components/Modal/Modal';
-
+import useLocalStorage from '../utils/useLocalStorage';
 
 const CardsList = () => {
-
-  
 
   const [modalIsOpen, setModalIsOpen] = useState(false);
   const [flip, setFlip] = useState(false);
   const [ selectedCard, setSelectedCard ] = useState({});
+  const [completedProblems, setCompletedProblems] = useLocalStorage("completedProblems"); /* Custom Hook */
+
+  
+  const uncompletedProblems = data.filter(
+    (problem) => !completedProblems.some((c) => c.Id === problem.Id)
+  );
+
+  const sortedProblems = [...uncompletedProblems, ...completedProblems];
+
 
 
   function openModal(card) {
@@ -23,12 +30,30 @@ const CardsList = () => {
     
   }
 
+  function handleLinkClick(event) {
+    // Stop the event propagation to prevent card from flipping
+    event.stopPropagation();
+  }
+
+  function markCompleted(props) {
+    console.log("completed")
+      // If problem is not completed , then add to local storage 
+    if (!completedProblems.find(problem => problem.Id === props.Id)) {
+    setCompletedProblems([...completedProblems, props]); 
+  } else { //If restaurant is already in local storage, then remove from it.
+    const modifiedCompletedProblems = completedProblems.filter((problem) => problem.Id !== props.Id);
+    setCompletedProblems(modifiedCompletedProblems);
+  }
+
+  }
+
+
   return (
     <>
       <div className='card-grid'>
-        {data.map((card,index) => {
+        {sortedProblems.map((card) => {
           return (
-            <div key={index} className="card" style={    {backgroundColor: card.Type === "Easy" ? "#aaf683" : ( card.Type === "Medium"  ? "#ffd97d":"#ee6055" )
+            <div key={card.Id} className="card" style={ {backgroundColor: card.Type === "Easy" ? "#aaf683" : ( card.Type === "Medium"  ? "#ffd97d":"#ee6055" )
         }} onClick={()=> { openModal(card)}}>
               <span>
                 {card.Problem}
@@ -38,7 +63,10 @@ const CardsList = () => {
         })}
       </div>
 
-      <Modal show={modalIsOpen} handleClose={closeModal} >
+      <Modal show={modalIsOpen} 
+      handleClose={closeModal} 
+      handleComplete={()=>markCompleted(selectedCard)}
+      isCompleted={completedProblems.some((problem) => problem.Id === selectedCard.Id)}>
           <div className={`card card-modal ${flip ? 'flip' : ''}`} onClick={()=> setFlip(!flip)} >
               <div className="front">
                 {selectedCard.Problem}
@@ -46,8 +74,8 @@ const CardsList = () => {
               <div className="back">
                 <p className='summary'>{selectedCard.Summary}</p>
                 <div className='additional'>
-                  <div className='question'> <a href={selectedCard.Url} target="_blank" rel="noreferrer">Open Question URL</a></div>
-                  <div className='solution'> <a href={selectedCard.Solution} target="_blank" rel="noreferrer">Open Solution</a></div>
+                  <div className='question'> <a href={selectedCard.Url} target="_blank" rel="noreferrer" onClick={handleLinkClick} >Open Question URL</a></div>
+                  <div className='solution'> <a href={selectedCard.Solution} target="_blank" rel="noreferrer" onClick={handleLinkClick}>Open Solution</a></div>
                 </div>
               </div>
           </div>
