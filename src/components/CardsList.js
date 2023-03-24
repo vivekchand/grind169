@@ -6,8 +6,7 @@ import useLocalStorage from '../utils/useLocalStorage';
 const CardsList = () => {
 
   const [modalIsOpen, setModalIsOpen] = useState(false);
-  const [flip, setFlip] = useState(false);
-  const [ selectedCard, setSelectedCard ] = useState({});
+  const [ selectedCard, setSelectedCard ] = useState({ flipped: false });
   const [completedProblems, setCompletedProblems] = useLocalStorage("completedProblems"); /* Custom Hook */
 
   
@@ -22,7 +21,7 @@ const CardsList = () => {
   function openModal(card) {
     console.log("open clicked", card)
     setModalIsOpen(true);
-    setSelectedCard(card);
+    setSelectedCard({...card, flipped: false});
   }
 
   function closeModal() {
@@ -67,8 +66,9 @@ const CardsList = () => {
       handleClose={closeModal} 
       handleComplete={()=>markCompleted(selectedCard)}
       isCompleted={completedProblems.some((problem) => problem.Id === selectedCard.Id)}>
-          <div className={`card card-modal ${flip ? 'flip' : ''}`} onClick={()=> setFlip(!flip)} >
-              <div className="front">
+          <div className={`card card-modal ${selectedCard.flipped ? 'flip' : ''}`} 
+            onClick={() => setSelectedCard({ ...selectedCard, flipped: !selectedCard.flipped })}>
+            <div className="front">
                 {selectedCard.Problem}
               </div>
               <div className="back">

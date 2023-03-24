@@ -55,10 +55,14 @@ body{
   transform: rotateY(180deg);
   font-size: 12px;
   width : 80%;
+  overflow-y: scroll;
 }
 
 .card .back .summary {
   font-size: 30px;
+  max-height: 150px; 
+  overflow-y: auto;
+
 }
 
 .additional {
