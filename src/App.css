@@ -39,6 +39,7 @@ body{
 }
 
 .card.flip {
+  --rotate-y: 180deg;
 }
 
 .card .front, .card .back{
@@ -54,6 +55,7 @@ body{
   font-size: 12px;
   width : 80%;
   overflow-y: scroll;
+  backface-visibility: hidden;
 }
 
 .card .back .summary {
