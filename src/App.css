@@ -38,22 +38,13 @@ body{
   box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.5);
 }
 
-@media only screen and (min-width: 768px) {
-  .card.flip {
-    --rotate-y: 180deg;
-  }
-}
-
-@media only screen and (max-width: 767px) {
-  .card.flip {
-    --rotate-y: unset;
-  }
+.card.flip {
+  --rotate-y: 180deg;
 }
 
 .card .front, .card .back{
   position: absolute;
   padding: 1rem;
-  backface-visibility: hidden;
 }
 
 .card .front {
