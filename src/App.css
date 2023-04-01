@@ -25,8 +25,6 @@ body{
   height: 50px;
   padding: 10px;
   cursor: pointer;
-  transition: 150ms;
-  transform: perspective(1000px) rotateY(var(--rotate-y, 0))
 }
 
 .card-modal {
