@@ -81,6 +81,7 @@ const CardsList = () => {
       <Modal show={modalIsOpen} 
       handleClose={closeModal} 
       handleComplete={()=>markCompleted(selectedCard)}
+      backgroundColor={selectedCard.Type === "Easy" ? "#aaf683" : ( selectedCard.Type === "Medium"  ? "#ffd97d":"#ee6055" )}
       isCompleted={completedProblems.some((problem) => problem.Id === selectedCard.Id)}>
           <div className={`card card-modal ${selectedCard.flipped ? 'flip' : ''}`} 
             onClick={() => setSelectedCard({ ...selectedCard, flipped: !selectedCard.flipped })}>
