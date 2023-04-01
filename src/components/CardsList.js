@@ -35,11 +35,11 @@ const CardsList = () => {
     console.log("completed")
       // If problem is not completed , then add to local storage 
     if (!completedProblems.find(problem => problem.Id === props.Id)) {
-    setCompletedProblems([...completedProblems, props]); 
-  } else { //If restaurant is already in local storage, then remove from it.
-    const modifiedCompletedProblems = completedProblems.filter((problem) => problem.Id !== props.Id);
-    setCompletedProblems(modifiedCompletedProblems);
-  }
+      setCompletedProblems([...completedProblems, props]); 
+    } else { //If restaurant is already in local storage, then remove from it.
+      const modifiedCompletedProblems = completedProblems.filter((problem) => problem.Id !== props.Id);
+      setCompletedProblems(modifiedCompletedProblems);
+    }
 
   }
 
@@ -59,7 +59,11 @@ const CardsList = () => {
           )
         })}
       </div>
+      <br/>
       <hr/>
+        <center><p>Completed count: {completedProblems ? completedProblems.length : 0}</p></center>
+      <hr/>
+      <br/>
       <div className='card-grid'>
         {completedProblems.map((card) => {
     
