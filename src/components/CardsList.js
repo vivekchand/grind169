@@ -50,7 +50,8 @@ const CardsList = () => {
   return (
     <>
       <div className='card-grid'>
-        {sortedProblems.map((card) => {
+        {uncompletedProblems.map((card) => {
+    
           return (
             <div key={card.Id} className="card" style={ {backgroundColor: card.Type === "Easy" ? "#aaf683" : ( card.Type === "Medium"  ? "#ffd97d":"#ee6055" )
         }} onClick={()=> { openModal(card)}}>
@@ -61,6 +62,21 @@ const CardsList = () => {
           )
         })}
       </div>
+      <hr/>
+      <div className='card-grid'>
+        {completedProblems.map((card) => {
+    
+          return (
+            <div key={card.Id} className="card" style={ {backgroundColor: card.Type === "Easy" ? "#aaf683" : ( card.Type === "Medium"  ? "#ffd97d":"#ee6055" )
+        }} onClick={()=> { openModal(card)}}>
+              <span>
+                {card.Problem} (Understood)
+              </span>
+            </div>
+          )
+        })}
+      </div>
+
 
       <Modal show={modalIsOpen} 
       handleClose={closeModal} 
