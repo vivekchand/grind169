@@ -55,7 +55,6 @@ body{
   font-size: 12px;
   width : 80%;
   overflow-y: scroll;
-  backface-visibility: hidden;
 }
 
 .card .back .summary {
