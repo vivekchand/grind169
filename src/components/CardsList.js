@@ -86,7 +86,7 @@ const CardsList = () => {
           <div className={`card card-modal ${selectedCard.flipped ? 'flip' : ''}`} 
             onClick={() => setSelectedCard({ ...selectedCard, flipped: !selectedCard.flipped })} style={ {backgroundColor: selectedCard.Type === "Easy" ? "#aaf683" : ( selectedCard.Type === "Medium"  ? "#ffd97d":"#ee6055" )
         }}>
-            {selectedCard.flipped ? (
+            {!selectedCard.flipped ? (
               <div className="front">
                 {selectedCard.Problem}
               </div>
