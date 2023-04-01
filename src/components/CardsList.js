@@ -86,10 +86,11 @@ const CardsList = () => {
           <div className={`card card-modal ${selectedCard.flipped ? 'flip' : ''}`} 
             onClick={() => setSelectedCard({ ...selectedCard, flipped: !selectedCard.flipped })} style={ {backgroundColor: selectedCard.Type === "Easy" ? "#aaf683" : ( selectedCard.Type === "Medium"  ? "#ffd97d":"#ee6055" )
         }}>
-            <div className="front">
+            {selectedCard.flipped ? (
+              <div className="front">
                 {selectedCard.Problem}
               </div>
-              <div className="back">
+            ) : <div className="back">
                 <p className='summary'>{selectedCard.Summary}</p>
                 <div className='additional'>
                   <div className='question'> 
@@ -97,7 +98,7 @@ const CardsList = () => {
                     <a style={{float: 'right'}} href={selectedCard.Solution} target="_blank" rel="noreferrer" onClick={handleLinkClick}>View Solution</a>
                    </div>
                 </div>
-              </div>
+              </div>}
           </div>
       </Modal>
     </>
