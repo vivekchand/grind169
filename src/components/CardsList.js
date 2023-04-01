@@ -32,15 +32,14 @@ const CardsList = () => {
   }
 
   function markCompleted(props) {
-    console.log("completed")
       // If problem is not completed , then add to local storage 
-    if (!completedProblems.find(problem => problem.Id === props.Id)) {
-    setCompletedProblems([...completedProblems, props]); 
-  } else { //If restaurant is already in local storage, then remove from it.
-    const modifiedCompletedProblems = completedProblems.filter((problem) => problem.Id !== props.Id);
-    setCompletedProblems(modifiedCompletedProblems);
-  }
-
+      if (!completedProblems.find(problem => problem.Id === props.Id)) {
+        setCompletedProblems([...completedProblems, props]); 
+      } else { //If restaurant is already in local storage, then remove from it.
+        const modifiedCompletedProblems = completedProblems.filter((problem) => problem.Id !== props.Id);
+        setCompletedProblems(modifiedCompletedProblems);
+      }
+    closeModal();
   }
 
 
