@@ -92,8 +92,10 @@ const CardsList = () => {
               <div className="back">
                 <p className='summary'>{selectedCard.Summary}</p>
                 <div className='additional'>
-                  <div className='question'> <a href={selectedCard.Url} target="_blank" rel="noreferrer" onClick={handleLinkClick}>&lt;&lt; View Question &gt;&gt;</a></div>
-                  <div className='solution'> <a href={selectedCard.Solution} target="_blank" rel="noreferrer" onClick={handleLinkClick}>&lt;&lt; View Solution &gt;&gt;</a></div>
+                  <div className='question'> 
+                    <a style={{float: 'left'}}  href={selectedCard.Url} target="_blank" rel="noreferrer" onClick={handleLinkClick}>View Question</a>
+                    <a style={{float: 'right'}} href={selectedCard.Solution} target="_blank" rel="noreferrer" onClick={handleLinkClick}>View Solution</a>
+                   </div>
                 </div>
               </div>
           </div>
