@@ -58,7 +58,11 @@ const CardsList = () => {
           )
         })}
       </div>
+      <br/>
       <hr/>
+        <center><p>Completed count: {completedProblems ? completedProblems.length : 0}</p></center>
+      <hr/>
+      <br/>
       <div className='card-grid'>
         {completedProblems.map((card) => {
     
