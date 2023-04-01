@@ -59,8 +59,8 @@ body{
 }
 
 .card .back .summary {
-  font-size: 30px;
-  max-height: 150px; 
+  font-size: 25px;
+  max-height: 450px; 
   overflow-y: auto;
 
 }
