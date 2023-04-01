@@ -39,7 +39,6 @@ body{
 }
 
 .card.flip {
-  --rotate-y: 180deg;
 }
 
 .card .front, .card .back{
