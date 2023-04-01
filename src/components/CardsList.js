@@ -14,9 +14,6 @@ const CardsList = () => {
     (problem) => !completedProblems.some((c) => c.Id === problem.Id)
   );
 
-  const sortedProblems = [...uncompletedProblems, ...completedProblems];
-
-
 
   function openModal(card) {
     console.log("open clicked", card)
