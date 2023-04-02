@@ -28,6 +28,9 @@
   top: 10px;
   right: 10px;
   cursor: pointer;
+  widht: 40px;
+  height: 40px;
+  font-size: 30px;
 }
 
 .display-block {
@@ -40,5 +43,8 @@
 
 .complete-btn {
   cursor: pointer;
+  widht: 40px;
+  height: 40px;
+  font-size: 20px;
 }
 
