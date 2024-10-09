@@ -78,13 +78,12 @@ const CardsList = () => {
       backgroundColor={selectedCard.Type === "Easy" ? "#aaf683" : ( selectedCard.Type === "Medium"  ? "#ffd97d":"#ee6055" )}
       isCompleted={completedProblems.some((problem) => problem.Id === selectedCard.Id)}>
           <div className={`card card-modal ${selectedCard.flipped ? 'flip' : ''}`} 
-            onClick={() => setSelectedCard({ ...selectedCard, flipped: !selectedCard.flipped })} style={ {backgroundColor: selectedCard.Type === "Easy" ? "#aaf683" : ( selectedCard.Type === "Medium"  ? "#ffd97d":"#ee6055" )
-        }}>
-            {!selectedCard.flipped ? (
+            style={{ backgroundColor: selectedCard.Type === "Easy" ? "#aaf683" : ( selectedCard.Type === "Medium"  ? "#ffd97d":"#ee6055" ) }}>
+            <div className="card-inner" onClick={() => setSelectedCard({ ...selectedCard, flipped: !selectedCard.flipped })}>
               <div className="front">
                 {selectedCard.Problem}
               </div>
-            ) : <div className="back">
+              <div className="back">
                 <p className='summary'>{selectedCard.Summary}</p>
                 <div className='additional'>
                   <div className='question'> 
@@ -92,7 +91,8 @@ const CardsList = () => {
                     <button className="view-btn" onClick={(e) => { e.stopPropagation(); window.open(selectedCard.Solution, '_blank'); }}>View Solution</button>
                   </div>
                 </div>
-              </div>}
+              </div>
+            </div>
           </div>
       </Modal>
     </>
