@@ -1,74 +1,87 @@
-body{
-  background-color: #fff;
+body {
+  background-color: #f0f4f8;
+  color: #333;
+  font-family: Arial, sans-serif;
 }
 
 .header {
   text-align: center;
+  padding: 20px 0;
+  background-color: #3498db;
+  color: white;
+  margin-bottom: 20px;
 }
 
-.card-grid{
+.card-grid {
   display: grid;
   align-items: center;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 1rem;
+  gap: 1.5rem;
+  padding: 0 20px;
 }
 
-.card{
+.card {
   display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
-  border-radius: .25rem;
-  box-shadow: 0 0 5px 2px rgba(0, 0, 0, .3);
-  background-color: #96e6a4;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
   transform-style: preserve-3d;
-  height: 50px;
-  padding: 10px;
+  height: 60px;
+  padding: 15px;
   cursor: pointer;
-  transition: 150ms;
-  transform: perspective(1000px) rotateY(var(--rotate-y, 0))
+  transition: all 0.3s ease;
+  transform: perspective(1000px) rotateY(var(--rotate-y, 0));
 }
 
 .card-modal {
-  width : 98%;
-  height : 100%;
+  width: 98%;
+  height: 100%;
 }
 
-.card:hover{
-  box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.5);
+.card:hover {
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+  transform: translateY(-5px);
 }
 
 .card.flip {
+  background-color: #f8f9fa;
 }
 
-.card .front, .card .back{
+.card .front, .card .back {
   position: absolute;
   padding: 1rem;
+  backface-visibility: hidden;
 }
 
 .card .front {
-  font-size: 60px;
+  font-size: 40px;
+  color: #3498db;
 }
 
 .card .back {
-  font-size: 12px;
-  width : 80%;
-  overflow-y: scroll;
+  font-size: 14px;
+  width: 90%;
+  height: 90%;
+  overflow-y: auto;
+  color: #333;
 }
 
 .card .back .summary {
-  font-size: 25px;
-  max-height: 300px; 
+  font-size: 20px;
+  max-height: 250px;
   overflow-y: auto;
-
+  margin-bottom: 15px;
 }
 
 .additional {
-  display : flex;
+  display: flex;
   flex-direction: column;
-  gap : 10px;
+  gap: 10px;
   flex-wrap: wrap;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -76,19 +89,19 @@ body{
     font-size: 16px;
   }
   .additional {
-    font-size: 16px;
+    font-size: 14px;
   }
   .card .front {
-    font-size: 20px;
+    font-size: 24px;
   }
 }
 
 @media only screen and (min-width: 600px) {
-  .card{
-    transition: 150ms;
+  .card {
+    transition: all 0.3s ease;
   }
   .card .back {
-    transform: rotateY(180deg); 
+    transform: rotateY(180deg);
   }
   .card.flip {
     --rotate-y: 180deg;
