@@ -1,0 +1,462 @@
+[
+  {
+    "Id": 124,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+    "Week": 11,
+    "Category": "Trie",
+    "Problem": "Implement Trie (Prefix Tree)",
+    "Summary": "Implement a trie with insert, search, and startsWith methods.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 125,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/coin-change/",
+    "Week": 11,
+    "Category": "Dynamic Programming",
+    "Problem": "Coin Change",
+    "Summary": "Find the fewest number of coins that you need to make up a given amount.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 126,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/product-of-array-except-self/",
+    "Week": 11,
+    "Category": "Array",
+    "Problem": "Product of Array Except Self",
+    "Summary": "Return an array where each element is the product of all elements in the original array except itself.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 127,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "Week": 11,
+    "Category": "Binary Search Tree",
+    "Problem": "Validate Binary Search Tree",
+    "Summary": "Determine if a binary tree is a valid binary search tree (BST).",
+    "Type": "Medium"
+  },
+  {
+    "Id": 128,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/number-of-islands/",
+    "Week": 11,
+    "Category": "Graph",
+    "Problem": "Number of Islands",
+    "Summary": "Count the number of islands in a 2D grid map.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 129,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/rotting-oranges/",
+    "Week": 12,
+    "Category": "Graph",
+    "Problem": "Rotting Oranges",
+    "Summary": "Find the minimum number of minutes that must elapse until no cell has a fresh orange.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 130,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "Week": 12,
+    "Category": "Binary Search",
+    "Problem": "Search in Rotated Sorted Array",
+    "Summary": "Search for a target value in a rotated sorted array.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 131,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/combination-sum/",
+    "Week": 12,
+    "Category": "Backtracking",
+    "Problem": "Combination Sum",
+    "Summary": "Find all unique combinations in candidates where the candidate numbers sum to target.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 132,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/permutations/",
+    "Week": 12,
+    "Category": "Backtracking",
+    "Problem": "Permutations",
+    "Summary": "Given an array nums of distinct integers, return all the possible permutations.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 133,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/merge-intervals/",
+    "Week": 12,
+    "Category": "Intervals",
+    "Problem": "Merge Intervals",
+    "Summary": "Merge all overlapping intervals and return an array of the non-overlapping intervals.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 134,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+    "Week": 12,
+    "Category": "Binary Tree",
+    "Problem": "Lowest Common Ancestor of a Binary Tree",
+    "Summary": "Find the lowest common ancestor (LCA) of two given nodes in a binary tree.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 135,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/time-based-key-value-store/",
+    "Week": 12,
+    "Category": "Hash Table",
+    "Problem": "Time Based Key-Value Store",
+    "Summary": "Design a time-based key-value data structure that can store multiple values for the same key at different time stamps and retrieve the key's value at a certain timestamp.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 136,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/accounts-merge/",
+    "Week": 13,
+    "Category": "Graph",
+    "Problem": "Accounts Merge",
+    "Summary": "Merge accounts with common emails, keeping the account names in alphabetical order.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 137,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/sort-colors/",
+    "Week": 13,
+    "Category": "Array",
+    "Problem": "Sort Colors",
+    "Summary": "Sort an array with only three unique numbers (0, 1, and 2) in-place.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 138,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/word-break/",
+    "Week": 13,
+    "Category": "Dynamic Programming",
+    "Problem": "Word Break",
+    "Summary": "Determine if a string can be segmented into a space-separated sequence of one or more dictionary words.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 139,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+    "Week": 13,
+    "Category": "Dynamic Programming",
+    "Problem": "Partition Equal Subset Sum",
+    "Summary": "Determine if a given array can be partitioned into two subsets with equal sum.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 140,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/string-to-integer-atoi/",
+    "Week": 13,
+    "Category": "String",
+    "Problem": "String to Integer (atoi)",
+    "Summary": "Convert a string to a 32-bit signed integer.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 141,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/spiral-matrix/",
+    "Week": 13,
+    "Category": "Matrix",
+    "Problem": "Spiral Matrix",
+    "Summary": "Return all elements of the matrix in spiral order.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 142,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/subsets/",
+    "Week": 13,
+    "Category": "Backtracking",
+    "Problem": "Subsets",
+    "Summary": "Return all possible subsets (the power set) of a given array of integers.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 143,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/binary-tree-right-side-view/",
+    "Week": 14,
+    "Category": "Binary Tree",
+    "Problem": "Binary Tree Right Side View",
+    "Summary": "Return the values of the nodes you can see ordered from top to bottom when viewing the tree from the right side.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 144,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "Week": 14,
+    "Category": "Dynamic Programming",
+    "Problem": "Longest Palindromic Substring",
+    "Summary": "Find the longest palindromic substring in a given string.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 145,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/unique-paths/",
+    "Week": 14,
+    "Category": "Dynamic Programming",
+    "Problem": "Unique Paths",
+    "Summary": "Calculate the number of unique paths from the top-left corner to the bottom-right corner of a grid.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 146,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+    "Week": 14,
+    "Category": "Binary Tree",
+    "Problem": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "Summary": "Construct a binary tree from its preorder and inorder traversal sequences.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 147,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/container-with-most-water/",
+    "Week": 14,
+    "Category": "Array",
+    "Problem": "Container With Most Water",
+    "Summary": "Find two lines that together with the x-axis forms a container that would hold the most water.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 148,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "Week": 14,
+    "Category": "Backtracking",
+    "Problem": "Letter Combinations of a Phone Number",
+    "Summary": "Return all possible letter combinations that the numbers on a phone keypad could represent.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 149,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/word-search/",
+    "Week": 14,
+    "Category": "Backtracking",
+    "Problem": "Word Search",
+    "Summary": "Determine if a word exists in a grid of characters.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 150,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+    "Week": 15,
+    "Category": "Sliding Window",
+    "Problem": "Find All Anagrams in a String",
+    "Summary": "Find all the start indices of anagrams of a given pattern string in another string.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 151,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/minimum-height-trees/",
+    "Week": 15,
+    "Category": "Graph",
+    "Problem": "Minimum Height Trees",
+    "Summary": "Find all the MHTs (minimum height trees) and return a list of their root labels.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 152,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/task-scheduler/",
+    "Week": 15,
+    "Category": "Greedy",
+    "Problem": "Task Scheduler",
+    "Summary": "Calculate the least number of units of time that the CPU will take to finish all the given tasks.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 153,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/lru-cache/",
+    "Week": 15,
+    "Category": "Design",
+    "Problem": "LRU Cache",
+    "Summary": "Design and implement a data structure for Least Recently Used (LRU) cache.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 154,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+    "Week": 15,
+    "Category": "Binary Search Tree",
+    "Problem": "Kth Smallest Element in a BST",
+    "Summary": "Find the kth smallest element in a Binary Search Tree (BST).",
+    "Type": "Medium"
+  },
+  {
+    "Id": 155,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/daily-temperatures/",
+    "Week": 15,
+    "Category": "Stack",
+    "Problem": "Daily Temperatures",
+    "Summary": "Given temperatures, return an array with the number of days you have to wait to get a warmer temperature.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 156,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/house-robber/",
+    "Week": 15,
+    "Category": "Dynamic Programming",
+    "Problem": "House Robber",
+    "Summary": "Determine the maximum amount of money you can rob from houses without alerting the police.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 157,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/gas-station/",
+    "Week": 16,
+    "Category": "Greedy",
+    "Problem": "Gas Station",
+    "Summary": "Determine if you can travel around the circuit once in a clockwise direction with the given gas stations.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 158,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/next-permutation/",
+    "Week": 16,
+    "Category": "Array",
+    "Problem": "Next Permutation",
+    "Summary": "Implement next permutation, which rearranges numbers into the lexicographically next greater permutation of numbers.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 159,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/valid-sudoku/",
+    "Week": 16,
+    "Category": "Array",
+    "Problem": "Valid Sudoku",
+    "Summary": "Determine if a 9 x 9 Sudoku board is valid.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 160,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/group-anagrams/",
+    "Week": 16,
+    "Category": "Hash Table",
+    "Problem": "Group Anagrams",
+    "Summary": "Group anagrams together from an array of strings.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 161,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/maximum-product-subarray/",
+    "Week": 16,
+    "Category": "Dynamic Programming",
+    "Problem": "Maximum Product Subarray",
+    "Summary": "Find the contiguous subarray within an array that has the largest product.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 162,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+    "Week": 16,
+    "Category": "Trie",
+    "Problem": "Design Add and Search Words Data Structure",
+    "Summary": "Design a data structure that supports adding new words and finding if a string matches any previously added string.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 163,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+    "Week": 16,
+    "Category": "Graph",
+    "Problem": "Pacific Atlantic Water Flow",
+    "Summary": "Find all cells that can flow to both the Pacific and Atlantic oceans.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 164,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "Week": 17,
+    "Category": "Linked List",
+    "Problem": "Remove Nth Node From End of List",
+    "Summary": "Remove the nth node from the end of a linked list and return its head.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 165,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/shortest-path-to-get-food/",
+    "Week": 17,
+    "Category": "Graph",
+    "Problem": "Shortest Path to Get Food",
+    "Summary": "Find the shortest path to get food in a grid.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 166,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/find-the-duplicate-number/",
+    "Week": 17,
+    "Category": "Array",
+    "Problem": "Find the Duplicate Number",
+    "Summary": "Find the duplicate number in an array containing n+1 integers where each integer is between 1 and n (inclusive).",
+    "Type": "Medium"
+  },
+  {
+    "Id": 167,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/top-k-frequent-words/",
+    "Week": 17,
+    "Category": "Hash Table",
+    "Problem": "Top K Frequent Words",
+    "Summary": "Find the k most frequent words in a given array of strings.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 168,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "Week": 17,
+    "Category": "Dynamic Programming",
+    "Problem": "Longest Increasing Subsequence",
+    "Summary": "Find the length of the longest strictly increasing subsequence in an array of integers.",
+    "Type": "Medium"
+  },
+  {
+    "Id": 169,
+    "Solution": "",
+    "Url": "https://leetcode.com/problems/graph-valid-tree/",
+    "Week": 17,
+    "Category": "Graph",
+    "Problem": "Graph Valid Tree",
+    "Summary": "Determine if an undirected graph is a valid tree.",
+    "Type": "Medium"
+  }
+]
