@@ -41,3 +41,25 @@
   cursor: pointer;
 }
 
+.additional button {
+  padding: 10px 15px;
+  margin: 5px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.additional button:hover {
+  background-color: #45a049;
+}
+
+.additional {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
