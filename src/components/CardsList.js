@@ -90,8 +90,16 @@ const CardsList = () => {
               <div className="back">
                 <p className='summary'>{selectedCard.Summary}</p>
                 <div className='additional'>
-                  <div className='question'> <a href={selectedCard.Url} target="_blank" rel="noreferrer" onClick={handleLinkClick} >Open Question URL</a></div>
-                  <div className='solution'> <a href={selectedCard.Solution} target="_blank" rel="noreferrer" onClick={handleLinkClick}>Open Solution</a></div>
+                  <div className='question'>
+                    <button onClick={(e) => { e.stopPropagation(); window.open(selectedCard.Url, '_blank'); }}>
+                      View Question
+                    </button>
+                  </div>
+                  <div className='solution'>
+                    <button onClick={(e) => { e.stopPropagation(); window.open(selectedCard.Solution, '_blank'); }}>
+                      View Solution
+                    </button>
+                  </div>
                 </div>
               </div>
           </div>
