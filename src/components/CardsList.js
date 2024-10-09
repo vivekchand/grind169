@@ -23,12 +23,6 @@ const CardsList = () => {
 
   function closeModal() {
     setModalIsOpen(false);
-    
-  }
-
-  function handleLinkClick(event) {
-    // Stop the event propagation to prevent card from flipping
-    event.stopPropagation();
   }
 
   function markCompleted(props) {
@@ -94,9 +88,9 @@ const CardsList = () => {
                 <p className='summary'>{selectedCard.Summary}</p>
                 <div className='additional'>
                   <div className='question'> 
-                    <a style={{float: 'left'}}  href={selectedCard.Url} target="_blank" rel="noreferrer" onClick={handleLinkClick}>View Question</a>
-                    <a style={{float: 'right'}} href={selectedCard.Solution} target="_blank" rel="noreferrer" onClick={handleLinkClick}>View Solution</a>
-                   </div>
+                    <button className="view-btn" onClick={(e) => { e.stopPropagation(); window.open(selectedCard.Url, '_blank'); }}>View Question</button>
+                    <button className="view-btn" onClick={(e) => { e.stopPropagation(); window.open(selectedCard.Solution, '_blank'); }}>View Solution</button>
+                  </div>
                 </div>
               </div>}
           </div>
