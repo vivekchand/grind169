@@ -23,12 +23,6 @@ const CardsList = () => {
 
   function closeModal() {
     setModalIsOpen(false);
-    
-  }
-
-  function handleLinkClick(event) {
-    // Stop the event propagation to prevent card from flipping
-    event.stopPropagation();
   }
 
   function markCompleted(props) {
