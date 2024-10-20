@@ -1,5 +1,15 @@
 export const data = [
   {
+    "Id": 127,
+    "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/51.%20N-Queens/NQueens.java",
+    "Url": "https://leetcode.com/problems/n-queens/",
+    "Week": 11,
+    "Category": "Backtracking",
+    "Problem": "N-Queens",
+    "Summary": "This solution uses backtracking to place N queens on an N×N chessboard such that no two queens attack each other. It recursively tries placing queens in different positions, checking for validity, and backtracks when a conflict is found. The solution returns all distinct solutions to the N-queens puzzle.",
+    "Type": "Hard"
+  },
+  {
     "Id": 126,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/130.%20Surrounded%20Regions/SurroundedRegions.java",
     "Url": "https://leetcode.com/problems/surrounded-regions/",
