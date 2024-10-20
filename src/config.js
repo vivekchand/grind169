@@ -1,5 +1,15 @@
 export const data = [
   {
+    "Id": 126,
+    "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/130.%20Surrounded%20Regions/SurroundedRegions.java",
+    "Url": "https://leetcode.com/problems/surrounded-regions/",
+    "Week": 11,
+    "Category": "Graph",
+    "Problem": "Surrounded Regions",
+    "Summary": "This solution uses DFS to mark 'O's that are not surrounded by 'X's. It starts from the border 'O's and marks all connected 'O's as 'E'. Then it traverses the entire board, changing remaining 'O's to 'X's and 'E's back to 'O's.",
+    "Type": "Medium"
+  },
+  {
     "Id": 1,
     "Solution": "https://github.com/vivekchand/grind169-solutions/blob/main/1.%20Two%20Sum/TwoSum.java",
     "Url": "https://leetcode.com/problems/two-sum/",
